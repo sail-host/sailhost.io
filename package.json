@@ -1,7 +1,11 @@
 {
-  "name": "shadcn-docs-nuxt-starter",
+  "name": "sailhost",
   "private": true,
   "type": "module",
+  "author": {
+    "email": "firdavs@sailhost.io",
+    "name": "Firdavs"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",

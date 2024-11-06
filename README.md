@@ -1,8 +1,17 @@
-# shadcn-docs-nuxt Minimal Starter
+# Sailhost
 
-Starter template for [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt).
+Free and Open Source Vercel, Netlify, Cloudflare Pages, and Cloudflare Workers alternative.
 
-## Setup
+## Features
+
+- Free and Open Source
+- Auto deploy your Next.js, Nuxt.js, Vue, Svelte, Astro, and Other Projects
+- Auto HTTPS. Free SSL/TLS certificates.
+- Auto configure Cloudflare DNS
+- Only need install tools.
+- Open Source
+
+## Development
 
 Make sure to install the dependencies:
 
@@ -30,10 +39,6 @@ npm run dev
 
 ## Production
 
-[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=ZTL-UwU/shadcn-docs-nuxt-starter)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
-
 Build the application for production:
 
 ```bash
@@ -46,4 +51,6 @@ Locally preview production build:
 npm run preview
 ```
 
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## License
+
+Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
