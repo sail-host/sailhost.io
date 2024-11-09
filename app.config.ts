@@ -4,6 +4,7 @@ export default defineAppConfig({
       name: "Sailhost",
       description:
         "Sailhost is a platform for hosting and managing your own websites.",
+      url: "https://sailhost.io",
     },
     theme: {
       color: "slate",
@@ -35,7 +36,7 @@ export default defineAppConfig({
       showTitle: true,
     },
     footer: {
-      credits: "Copyright © 2024",
+      credits: "Copyright Sailhost © 2024",
       links: [
         {
           icon: "lucide:github",
